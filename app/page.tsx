@@ -55,11 +55,7 @@ function CalEmbed() {
   useEffect(() => {
     (async () => {
       const cal = await getCalApi({ namespace: 'bizsimpler' });
-      cal('ui', {
-        cssVarsPerTheme: { light: { 'cal-brand': '#111111' }, dark: { 'cal-brand': '#ffffff' } },
-        hideEventTypeDetails: false,
-        layout: 'month_view',
-      });
+      cal('ui', { hideEventTypeDetails: true, layout: 'month_view' });
     })();
   }, []);
 
@@ -161,7 +157,7 @@ export default function Home() {
         <div className="section-intro centered">
           <p className="section-kicker">Book a call</p>
           <h2>Let&rsquo;s talk.</h2>
-          <p>Pick a time that works. 15 minutes, no pressure.</p>
+          <p>Pick a time that works. 30 minutes, no pressure.</p>
         </div>
         <div className="cal-embed-wrapper">
           <CalEmbed />
