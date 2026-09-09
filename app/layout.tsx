@@ -6,14 +6,21 @@ import Script from 'next/script';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Biz Simpler — Get More Google Reviews On Autopilot',
-  description: 'A calmer way for businesses to grow their reputation — collect more Google reviews without chasing customers.',
+  title: 'Biz Simpler — Get More Google Reviews, The Way Google Likes It',
+  description: 'Biz Simpler helps businesses collect more Google reviews the right way — boosting your Google Business Profile without spammy tactics.',
   openGraph: {
-    title: 'Biz Simpler — Get More Google Reviews On Autopilot',
-    description: 'A calmer way for businesses to grow their reputation — collect more Google reviews without chasing customers.',
+    title: 'Biz Simpler — Get More Google Reviews, The Way Google Likes It',
+    description: 'Biz Simpler helps businesses collect more Google reviews the right way — boosting your Google Business Profile without spammy tactics.',
     url: 'https://www.bizsimpler.com',
     siteName: 'Biz Simpler',
     type: 'website',
+    images: [
+      {
+        url: 'https://www.bizsimpler.com/og-image.png',
+        width: 1200,
+        height: 630,
+      },
+    ],
   },
 };
 
