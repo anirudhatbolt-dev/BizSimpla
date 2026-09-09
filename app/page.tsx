@@ -8,6 +8,7 @@ import {
   X,
 } from 'lucide-react';
 import { useEffect, useState } from 'react';
+import Image from 'next/image';
 import Cal, { getCalApi } from '@calcom/embed-react';
 
 const heroImage = '/Gemini_Generated_Image_hydkmdhydkmdhydk.png';
@@ -75,7 +76,6 @@ export default function Home() {
   return (
     <main className="min-h-screen overflow-hidden bg-white text-[#111111]">
       <header className="site-header">
-      <link rel="icon" href="/favicon.ico" sizes="any" />
         <div className="site-header-inner">
           <a className="brand" href="#top" aria-label="Biz Simpler. home">
             <span className="brand-mark"><Star className="h-4 w-4 fill-current" /></span>
@@ -112,7 +112,14 @@ export default function Home() {
           </div>
           <div className="hero-proof"><span><Check className="h-4 w-4" /> No card needed to talk</span><span><Check className="h-4 w-4" /> 15-minute call</span><span><Check className="h-4 w-4" /> Built for busy owners</span></div>
           <div className="hero-visual">
-            <img src={heroImage} alt="Biz Simpler dashboard showing collected reviews and ratings" />
+            <Image
+              src={heroImage}
+              alt="Biz Simpler dashboard showing collected reviews and ratings"
+              width={1200}
+              height={800}
+              priority
+              style={{ width: '100%', height: 'auto' }}
+            />
           </div>
         </div>
       </section>
@@ -132,7 +139,13 @@ export default function Home() {
                 <ul>{feature.points.map((point) => <li key={point}><span className="check-circle"><Check className="h-3.5 w-3.5" /></span><span>{point}</span></li>)}</ul>
               </div>
               <div className="feature-visual">
-                <img src={featureImages[index]} alt={`Illustration for ${feature.title}`} />
+                <Image
+                  src={featureImages[index]}
+                  alt={`Illustration for ${feature.title}`}
+                  width={800}
+                  height={600}
+                  style={{ width: '100%', height: 'auto' }}
+                />
               </div>
             </article>
           ))}

@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Biz Simpler — Get More Google Reviews, The Way Google Likes It',
   description: 'Biz Simpler helps businesses collect more Google reviews the right way — boosting your Google Business Profile without spammy tactics.',
+  icons: {
+    icon: '/favicon.ico',
+  },
   openGraph: {
     title: 'Biz Simpler — Get More Google Reviews, The Way Google Likes It',
     description: 'Biz Simpler helps businesses collect more Google reviews the right way — boosting your Google Business Profile without spammy tactics.',
