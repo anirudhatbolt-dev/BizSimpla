@@ -6,8 +6,15 @@ import Script from 'next/script';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Biz Simpler — More proof. Less chasing.',
-  description: 'A calmer way for businesses to grow their reputation.',
+  title: 'Biz Simpler — Get More Google Reviews On Autopilot',
+  description: 'A calmer way for businesses to grow their reputation — collect more Google reviews without chasing customers.',
+  openGraph: {
+    title: 'Biz Simpler — Get More Google Reviews On Autopilot',
+    description: 'A calmer way for businesses to grow their reputation — collect more Google reviews without chasing customers.',
+    url: 'https://www.bizsimpler.com',
+    siteName: 'Biz Simpler',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
