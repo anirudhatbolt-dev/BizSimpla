@@ -1,0 +1,244 @@
+{
+  "slug": "rocket-boost-virtual-assistants",
+  "header": {
+    "title": "Rocket Boost Virtual Assistants",
+    "date": "October 19, 2026",
+    "intro": "This page is the written version of the video I made for RBVA. Everything below is a snapshot from **October 19, 2026**. It's free, with no signup, and you're welcome to share it with your team."
+  },
+  "scorecard": {
+    "rows": [
+      {
+        "check": "Rating",
+        "result": "5.0 from 18 reviews",
+        "status": "strong"
+      },
+      {
+        "check": "Reviews with written text",
+        "result": "2 of 18",
+        "status": "opportunity"
+      },
+      {
+        "check": "Reviews with photos",
+        "result": "**0 of 18**",
+        "status": "opportunity"
+      },
+      {
+        "check": "Owner replies",
+        "result": "1 of 18",
+        "status": "opportunity"
+      },
+      {
+        "check": "Profile audit score",
+        "result": "61%",
+        "status": "room_to_grow"
+      },
+      {
+        "check": "Local map scan (4 searches, 7 mile radius)",
+        "result": "20+ across the map",
+        "status": "opportunity"
+      }
+    ],
+    "image": {
+      "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/Screenshot%202026-10-21%20114704.png",
+      "alt": "Google Business Profile audit for Rocket Boost Virtual Assistants showing a 61% optimized score",
+      "caption": "Profile audit, October 19, 2026"
+    }
+  },
+  "whats_working": {
+    "title": "What’s already working",
+    "paragraphs": [
+      "Eighteen reviews, all five stars, in about **14 months**. That’s a strong foundation, and it’s the hardest part to fake. Clients clearly like working with you."
+    ]
+  },
+  "profile_health": {
+    "rows": [
+      {
+        "priority": "High 🔴",
+        "finding": "No services listed",
+        "why_it_helps": "Services tell customers and Google exactly what you offer",
+        "what_to_do": "Add each service you sell, with a one-line description"
+      },
+      {
+        "priority": "Medium 🟠",
+        "finding": "Only one category (Employment agency)",
+        "why_it_helps": "Secondary categories describe more of what you do",
+        "what_to_do": "Add secondary categories that fit your services"
+      },
+      {
+        "priority": "Medium 🟠",
+        "finding": "8 photos",
+        "why_it_helps": "More real photos give clients a better view of your business",
+        "what_to_do": "Add team, office and work photos until you’re past 10"
+      },
+      {
+        "priority": "Low 🟡",
+        "finding": "No post since 22 April 2026",
+        "why_it_helps": "Regular posts keep a profile active",
+        "what_to_do": "Post once a month: a tip, a service update or an offer"
+      },
+      {
+        "priority": "Low 🟡",
+        "finding": "No UTM tracking on the website link",
+        "why_it_helps": "Shows in analytics which visits come from your profile",
+        "what_to_do": "Add UTM parameters to the website link"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "What we found in the reviews",
+    "paragraphs": [
+      "**Sixteen of the 18 reviews** are star ratings only, with no written text. Two include a few words, and one of those is detailed.",
+      "You’ve replied to **one review**. Written reviews matter because both Google and future clients read them to understand what you do.",
+      "According to Whitespark’s Local Search Ranking Factors Report, **reviews make up about 20% of local pack ranking** weight."
+    ],
+    "image": {
+      "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(12).png",
+      "alt": "Google reviews for Rocket Boost Virtual Assistants showing five-star ratings with no written text",
+      "size": "small"
+    }
+  },
+  "map_scan": {
+    "title": "Local map scan 🗺️📍",
+    "intro": "We scanned three searches around Costa Mesa, 5-7 miles out:",
+    "scans": [
+      {
+        "keyword": "virtual bookkeeper costa mesa",
+        "images": [
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(13).png",
+            "alt": "Scan report for “virtual bookkeeper costa mesa” showing ARP, ATRP and SoLV scores",
+            "border": false
+          },
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(14).png",
+            "alt": "Map of search rankings across the Costa Mesa grid for “virtual bookkeeper costa mesa”",
+            "border": false
+          }
+        ]
+      },
+      {
+        "keyword": "accounting staffing costa mesa",
+        "images": [
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(15).png",
+            "alt": "Scan report for “accounting staffing costa mesa” showing ARP, ATRP and SoLV scores",
+            "border": false
+          },
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(16).png",
+            "alt": "Map of search rankings across the Costa Mesa grid for “accounting staffing costa mesa”",
+            "border": false
+          }
+        ]
+      },
+      {
+        "keyword": "CPA firm staffing costa mesa",
+        "images": [
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(17).png",
+            "alt": "Scan report for “CPA firm staffing costa mesa” showing ARP, ATRP and SoLV scores",
+            "border": false
+          },
+          {
+            "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(18).png",
+            "alt": "Map of search rankings across the Costa Mesa grid for “CPA firm staffing costa mesa”",
+            "border": false
+          }
+        ]
+      }
+    ],
+    "caveat": "For each search, Rocket Boost showed at position **20 or lower across the map**. This is a snapshot of four searches on one day. Your clients may also find you through referrals, LinkedIn and your website, so treat it as a starting point, not a verdict."
+  },
+  "scan_recommendations": {
+    "title": "What the scan recommends",
+    "paragraphs": [
+      "The scan came back with suggestions for your profile. The word it comes back to most is **reviews.** It points to getting more written reviews as the biggest lever for closing the gap with nearby competitors."
+    ],
+    "image": {
+      "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(19).png",
+      "alt": "Vulnerable competitors from the scan: Alliance Resource Group, Advantex Professional Services, Kforce and DCL Staffing LLC, with their review counts and ratings",
+      "border": false
+    }
+  },
+  "strong_review": {
+    "note": "The reviews that tend to help the most do three things: **they name the service, include a photo, and get an owner reply**. Customers can also tap the service they received right in the Google form.",
+    "example_images": [
+      {
+        "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(20)%20(1).png",
+        "alt": "Example five-star Google review from a small CPA firm that names the service, virtual bookkeeping",
+        "size": "medium",
+        "border": false
+      },
+      {
+        "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/Gemini_Generated_Image_hzvgofhzvgofhzvg%20(1).png",
+        "alt": "Example photo attached to the review: a laptop on a tidy desk showing a video call",
+        "size": "medium",
+        "border": false
+      },
+      {
+        "url": "https://urlamxgmcaxiucwkaoxr.supabase.co/storage/v1/object/public/BizSimplerImages/image%20(20)copy.png",
+        "alt": "Example owner reply thanking the reviewer and mentioning tax season",
+        "size": "medium",
+        "border": false
+      }
+    ]
+  },
+  "free_steps": {
+    "title": "Three steps you can take this week",
+    "steps": [
+      "Ask your next few happy clients for a short review that mentions the service they received, such as virtual bookkeeping, and a photo if they’re comfortable.",
+      "Reply to your existing reviews. Seventeen are waiting for a thank-you that mentions the service.",
+      "Check that your profile’s service list matches what you actually offer."
+    ]
+  },
+  "could_mean": {
+    "paragraphs": [
+      "You already have the hardest part, which is happy clients. The next step is making that visible. When someone in Costa Mesa compares a few firms, the profile that shows **reviews naming the services, real photos, and owners who reply** is easier to trust and easier to choose. In practice that means:"
+    ],
+    "bullets": [
+      "A profile that shows **what you do, not just a star rating**",
+      "Every client getting a thank-you",
+      "A profile that stays active month after month"
+    ]
+  },
+  "how_it_works": {
+    "title": "How Biz{{Simpler}} can help RBVA",
+    "intro": [
+      "**BizSimpler** makes that process easier. We send review requests that guide your clients to **pick the service, add a photo and share their experience** in their own words.",
+      "We manage the photos, and the client approves every review. **You get a steady flow of reviews that follow the way Google likes it.**"
+    ],
+    "rows": [
+      {
+        "feature": "Guided review requests",
+        "what_it_does": "Clients tap the service, add text and a photo",
+        "what_it_does_for_you": "Reviews that name your services, not just stars"
+      },
+      {
+        "feature": "Photo management",
+        "what_it_does": "We help collect and manage client photos",
+        "what_it_does_for_you": "A profile that shows real work"
+      },
+      {
+        "feature": "Reply drafts or automatic replies",
+        "what_it_does": "Every review gets a thank-you",
+        "what_it_does_for_you": "No client left unanswered"
+      },
+      {
+        "feature": "Personal message from you",
+        "what_it_does": "A voice or video thank-you for each client",
+        "what_it_does_for_you": "Clients feel noticed and more likely to leave a review"
+      },
+      {
+        "feature": "Customer approves every review",
+        "what_it_does": "Nothing posts without a person’s say-so",
+        "what_it_does_for_you": "Reviews stay honest and the way Google likes it"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "See how it would work for {{Rocket Boost}}",
+    "subtext": "A short demo, built around your reviews and your profile.",
+    "button_text": "Book a demo",
+    "button_url": "https://cal.com/onekadian/bizsimpler"
+  }
+}
